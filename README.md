@@ -2,7 +2,7 @@
 
 #Objective 
 This is a workup of the Web-API coding timed coding quiz. 
-The projext plan is to create a JavaScript timed coding quiz. 
+The project plan is to create a JavaScript timed coding quiz. 
 
 ## Mockup Image 
 The website mockup image is located at "Code-Quiz\assets\Mockup.jpg".
